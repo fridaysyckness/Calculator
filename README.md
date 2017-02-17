@@ -1,3 +1,3 @@
 # Calculator
 Simple Calculator Design
-![Alt text](https://github.com/fridaysyckness/Calculator/tree/master/screenshot/calculator.png "Screenshot")
+![screenshot](https://github.com/fridaysyckness/Calculator/blob/master/screenshot/calculator.png)
